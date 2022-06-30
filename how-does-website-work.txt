@@ -1,0 +1,14 @@
+- Website from 3 files
+    - HTML -> for structur web
+    - CSS -> for style web to look
+    - Javascript -> fop have behaviour to web
+
+example : 
+    1. Loading google Website
+    2. css make google web look better
+    3. javascript make the function button
+       make usefull.
+
+if you inspect website you can edit local file,
+but if refresh again, mean send request again
+to server. 

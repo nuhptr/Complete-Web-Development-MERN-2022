@@ -1,0 +1,7 @@
+- Semua itu hanyalah seutas kabel panjang dan kabel tersebut
+  menghubungkan komputer yang berbeda satu sama lain.
+
+- web server ibarat perpustakaan yang buka 24/7
+
+- google -> Internet Service Provider -> DNS Server -> find ip address in own database 
+  -> Google Server -> send back to your pc
